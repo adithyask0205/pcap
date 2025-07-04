@@ -1,6 +1,6 @@
 # PCAP Analysis Tools
 
-This folder contains C++ programs for analyzing and processing network packet capture (PCAP) files, specifically focusing on TCP and FTP traffic. Each program demonstrates different approaches to parsing and exporting packet data.
+This repository contains C++ programs for analyzing and processing network packet capture (PCAP) files, focusing on TCP and FTP traffic.
 
 ## File Descriptions
 
@@ -60,4 +60,3 @@ Make sure `ftp.pcap` is present in the same directory. Each program expects this
 ## Notes
 - All programs assume the input file is named `ftp.pcap` and is in the current directory.
 - Output CSV files will be overwritten if they already exist.
-- These programs are designed for educational purposes and may need adaptation for large or non-Ethernet PCAP files. 
