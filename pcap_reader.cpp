@@ -4,6 +4,7 @@
 #include <netinet/tcp.h> // For TCP header stuff
 #include <arpa/inet.h>   // For IP address conversion
 #include <cstring>       // For char array operations
+#include<vector>        // For using vector container
 
 using namespace std;
 
